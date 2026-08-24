@@ -1,0 +1,3 @@
+SELECT store_id,COUNT(*) orders,ROUND(AVG(picking_time_minutes)::numeric,2) avg_picking_minutes FROM vw_order_performance GROUP BY store_id ORDER BY avg_picking_minutes DESC;
+SELECT c.unique_skus,COUNT(*) orders,ROUND(AVG(p.picking_time_minutes)::numeric,2) avg_picking_minutes FROM vw_order_complexity c JOIN vw_order_performance p USING(order_id) GROUP BY c.unique_skus ORDER BY c.unique_skus;
+SELECT a.product_id,a.product_name,a.abc_class,a.units_sold,l.store_id,l.distance_from_packing_m FROM vw_product_abc a JOIN store_layout l USING(product_id) WHERE a.abc_class='A' ORDER BY l.distance_from_packing_m DESC;

@@ -1,0 +1,2 @@
+SELECT o.store_id,ROUND(AVG(EXTRACT(EPOCH FROM(o.picking_completed_at-o.picking_started_at))/60)::numeric,2) picking_min,ROUND(AVG(EXTRACT(EPOCH FROM(o.packed_at-o.picking_completed_at))/60)::numeric,2) packing_min,ROUND(AVG(EXTRACT(EPOCH FROM(d.dispatch_time-o.packed_at))/60)::numeric,2) post_pack_min FROM orders o JOIN dispatch_logs d USING(order_id) GROUP BY o.store_id;
+SELECT CASE WHEN dispatch_time>delivery_deadline THEN 'Breached' ELSE 'On Time' END status,COUNT(*) FROM dispatch_logs GROUP BY 1;

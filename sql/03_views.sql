@@ -1,0 +1,2 @@
+CREATE OR REPLACE VIEW vw_order_performance AS SELECT order_id,store_id,order_datetime::DATE order_date,EXTRACT(EPOCH FROM(picking_completed_at-picking_started_at))/60 picking_time_minutes,EXTRACT(EPOCH FROM(dispatched_at-order_created_at))/60 total_fulfillment_minutes,EXTRACT(EPOCH FROM(packed_at-picking_completed_at))/60 packing_time_minutes FROM orders;
+CREATE OR REPLACE VIEW vw_order_complexity AS SELECT order_id,COUNT(DISTINCT product_id) unique_skus,SUM(quantity) total_units FROM order_items GROUP BY order_id;

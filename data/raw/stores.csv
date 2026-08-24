@@ -1,0 +1,11 @@
+store_id,store_name,city,state,store_type,opening_date,packing_station_count
+101,Dark Store 01,Gurgaon,Haryana,Dark Store,2024-01-15,3
+102,Dark Store 02,Gurgaon,Haryana,Dark Store,2024-02-01,6
+103,Dark Store 03,Gurgaon,Haryana,Dark Store,2024-02-18,5
+104,Dark Store 04,Gurgaon,Haryana,Dark Store,2024-03-06,4
+105,Dark Store 05,Gurgaon,Haryana,Dark Store,2024-03-23,4
+106,Dark Store 06,Delhi,Delhi,Dark Store,2024-04-09,6
+107,Dark Store 07,Delhi,Delhi,Dark Store,2024-04-26,3
+108,Dark Store 08,Delhi,Delhi,Dark Store,2024-05-13,5
+109,Dark Store 09,Noida,Uttar Pradesh,Dark Store,2024-05-30,3
+110,Dark Store 10,Noida,Uttar Pradesh,Dark Store,2024-06-16,3

@@ -1,0 +1,501 @@
+product_id,sku_code,product_name,category,subcategory,brand,unit_price,unit_weight_kg,shelf_life_days,unit_cost
+10001,SKU10001,Namkeen 0001,Snacks,Namkeen,Local,36.98,2.276,104,28.6
+10002,SKU10002,Frozen Snacks 0002,Frozen,Frozen Snacks,Tata,67.7,4.468,73,47.84
+10003,SKU10003,Cleaner 0003,Household,Cleaner,Dove,35.67,3.761,145,27.08
+10004,SKU10004,Tissue 0004,Household,Tissue,Dove,76.16,4.959,107,54.86
+10005,SKU10005,Detergent 0005,Household,Detergent,Local,93.94,2.68,121,74.04
+10006,SKU10006,Garbage Bags 0006,Household,Garbage Bags,Amul,65.58,3.317,194,47.37
+10007,SKU10007,Chips 0007,Snacks,Chips,Local,47.32,1.547,70,32.7
+10008,SKU10008,Buns 0008,Bakery,Buns,Amul,68.51,4.74,322,50.86
+10009,SKU10009,Flour 0009,Staples,Flour,ITC,46.79,1.863,266,31.39
+10010,SKU10010,Coffee 0010,Beverages,Coffee,Parle,87.16,3.706,278,56.08
+10011,SKU10011,Chips 0011,Snacks,Chips,Nestle,21.85,2.046,63,14.78
+10012,SKU10012,Onion 0012,Vegetables,Onion,Britannia,46.16,2.831,259,27.5
+10013,SKU10013,Cakes 0013,Bakery,Cakes,Britannia,20.18,3.613,305,15.44
+10014,SKU10014,Ice Cream 0014,Frozen,Ice Cream,Dove,25.85,2.569,65,16.04
+10015,SKU10015,Garbage Bags 0015,Household,Garbage Bags,Nestle,107.98,4.54,274,63.87
+10016,SKU10016,Soap 0016,Personal Care,Soap,Nestle,85.42,2.126,131,52.66
+10017,SKU10017,Juice 0017,Beverages,Juice,Local,38.1,3.253,287,29.62
+10018,SKU10018,Rice 0018,Staples,Rice,Britannia,25.76,1.745,175,16.46
+10019,SKU10019,Namkeen 0019,Snacks,Namkeen,Local,15.0,2.07,293,11.03
+10020,SKU10020,Water 0020,Beverages,Water,Local,41.61,2.228,55,32.51
+10021,SKU10021,Coffee 0021,Beverages,Coffee,Parle,183.13,0.673,143,104.57
+10022,SKU10022,Apple 0022,Fruits,Apple,Britannia,67.86,0.504,101,51.34
+10023,SKU10023,Butter 0023,Dairy,Butter,Britannia,41.27,3.354,92,26.13
+10024,SKU10024,Chocolate 0024,Snacks,Chocolate,Nestle,68.89,3.295,113,41.92
+10025,SKU10025,Sugar 0025,Staples,Sugar,Parle,25.02,3.331,140,18.41
+10026,SKU10026,Cheese 0026,Dairy,Cheese,Britannia,47.06,0.148,48,37.44
+10027,SKU10027,Dal 0027,Staples,Dal,ITC,57.38,1.666,258,36.13
+10028,SKU10028,Flour 0028,Staples,Flour,Amul,52.3,1.029,201,36.8
+10029,SKU10029,Orange 0029,Fruits,Orange,Parle,81.08,3.902,303,50.94
+10030,SKU10030,Soap 0030,Personal Care,Soap,Amul,64.87,4.31,257,45.39
+10031,SKU10031,Cookies 0031,Bakery,Cookies,Tata,76.26,1.271,56,54.75
+10032,SKU10032,Tissue 0032,Household,Tissue,Amul,38.7,3.356,27,27.66
+10033,SKU10033,Detergent 0033,Household,Detergent,Britannia,85.53,0.69,155,61.44
+10034,SKU10034,Onion 0034,Vegetables,Onion,Britannia,123.28,1.412,176,72.3
+10035,SKU10035,Cheese 0035,Dairy,Cheese,Dove,33.61,0.736,89,24.78
+10036,SKU10036,Fries 0036,Frozen,Fries,Amul,35.03,1.453,285,25.65
+10037,SKU10037,Water 0037,Beverages,Water,ITC,106.47,3.39,213,78.18
+10038,SKU10038,Sugar 0038,Staples,Sugar,Parle,49.62,4.556,273,28.28
+10039,SKU10039,Face Wash 0039,Personal Care,Face Wash,Parle,110.16,1.052,41,73.88
+10040,SKU10040,Garbage Bags 0040,Household,Garbage Bags,Tata,43.76,2.733,297,28.9
+10041,SKU10041,Tissue 0041,Household,Tissue,Dove,113.02,3.522,76,64.81
+10042,SKU10042,Cakes 0042,Bakery,Cakes,ITC,58.31,4.767,164,35.57
+10043,SKU10043,Onion 0043,Vegetables,Onion,Dove,62.12,3.07,161,41.56
+10044,SKU10044,Coffee 0044,Beverages,Coffee,Nestle,119.39,1.313,299,89.61
+10045,SKU10045,Soft Drink 0045,Beverages,Soft Drink,Local,45.56,3.146,102,27.97
+10046,SKU10046,Curd 0046,Dairy,Curd,Parle,34.1,1.636,89,26.39
+10047,SKU10047,Namkeen 0047,Snacks,Namkeen,Tata,43.63,4.882,125,30.43
+10048,SKU10048,Cookies 0048,Bakery,Cookies,Local,68.45,2.028,132,51.7
+10049,SKU10049,Cleaner 0049,Household,Cleaner,Dove,24.96,3.443,67,16.91
+10050,SKU10050,Face Wash 0050,Personal Care,Face Wash,Dove,75.09,0.165,66,51.42
+10051,SKU10051,Frozen Peas 0051,Frozen,Frozen Peas,Parle,41.7,2.03,85,29.91
+10052,SKU10052,Cleaner 0052,Household,Cleaner,Amul,96.92,4.382,171,77.59
+10053,SKU10053,Onion 0053,Vegetables,Onion,ITC,16.49,3.071,126,11.26
+10054,SKU10054,Fries 0054,Frozen,Fries,Britannia,36.84,2.248,144,25.52
+10055,SKU10055,Juice 0055,Beverages,Juice,Local,23.49,4.683,263,16.74
+10056,SKU10056,Potato 0056,Vegetables,Potato,Britannia,36.12,4.277,89,27.06
+10057,SKU10057,Frozen Peas 0057,Frozen,Frozen Peas,Britannia,61.8,1.645,332,35.19
+10058,SKU10058,Onion 0058,Vegetables,Onion,Britannia,49.92,2.746,274,34.41
+10059,SKU10059,Butter 0059,Dairy,Butter,Tata,48.1,2.475,65,32.71
+10060,SKU10060,Coffee 0060,Beverages,Coffee,Parle,50.42,3.179,115,40.28
+10061,SKU10061,Garbage Bags 0061,Household,Garbage Bags,Local,60.44,1.704,68,41.3
+10062,SKU10062,Cakes 0062,Bakery,Cakes,ITC,32.97,1.259,101,22.3
+10063,SKU10063,Coffee 0063,Beverages,Coffee,Nestle,77.74,4.568,134,62.95
+10064,SKU10064,Buns 0064,Bakery,Buns,Amul,76.05,4.623,49,51.08
+10065,SKU10065,Face Wash 0065,Personal Care,Face Wash,Amul,66.19,4.224,7,39.64
+10066,SKU10066,Soft Drink 0066,Beverages,Soft Drink,Nestle,72.12,4.892,161,43.89
+10067,SKU10067,Potato 0067,Vegetables,Potato,Local,63.32,3.738,256,36.45
+10068,SKU10068,Apple 0068,Fruits,Apple,Parle,151.04,3.835,111,83.1
+10069,SKU10069,Chocolate 0069,Snacks,Chocolate,Local,52.27,3.825,314,34.84
+10070,SKU10070,Toothpaste 0070,Personal Care,Toothpaste,Amul,46.83,2.429,136,35.48
+10071,SKU10071,Ice Cream 0071,Frozen,Ice Cream,Amul,37.46,2.309,328,28.02
+10072,SKU10072,Water 0072,Beverages,Water,Dove,32.59,1.239,87,18.21
+10073,SKU10073,Cookies 0073,Bakery,Cookies,Amul,29.31,3.242,197,20.63
+10074,SKU10074,Flour 0074,Staples,Flour,Amul,35.01,1.482,279,20.71
+10075,SKU10075,Soap 0075,Personal Care,Soap,ITC,52.7,1.326,23,42.38
+10076,SKU10076,Detergent 0076,Household,Detergent,Local,64.53,2.951,339,38.41
+10077,SKU10077,Butter 0077,Dairy,Butter,Tata,56.01,2.079,134,40.28
+10078,SKU10078,Tomato 0078,Vegetables,Tomato,Amul,37.23,1.133,182,23.76
+10079,SKU10079,Tissue 0079,Household,Tissue,Dove,85.63,4.089,230,61.93
+10080,SKU10080,Flour 0080,Staples,Flour,Dove,79.02,4.31,235,52.26
+10081,SKU10081,Water 0081,Beverages,Water,Dove,50.41,0.88,10,38.06
+10082,SKU10082,Rice 0082,Staples,Rice,Local,39.39,0.087,316,24.12
+10083,SKU10083,Flour 0083,Staples,Flour,Britannia,71.82,1.714,228,57.07
+10084,SKU10084,Capsicum 0084,Vegetables,Capsicum,Local,59.98,3.998,364,41.09
+10085,SKU10085,Sugar 0085,Staples,Sugar,Nestle,26.47,4.204,173,19.96
+10086,SKU10086,Orange 0086,Fruits,Orange,Dove,52.77,0.735,224,41.13
+10087,SKU10087,Apple 0087,Fruits,Apple,Parle,62.24,3.883,162,51.02
+10088,SKU10088,Face Wash 0088,Personal Care,Face Wash,Dove,34.82,0.623,324,21.26
+10089,SKU10089,Soap 0089,Personal Care,Soap,Tata,60.03,1.981,304,37.67
+10090,SKU10090,Buns 0090,Bakery,Buns,Tata,26.38,4.993,331,16.29
+10091,SKU10091,Flour 0091,Staples,Flour,Parle,106.49,1.003,185,66.13
+10092,SKU10092,Cakes 0092,Bakery,Cakes,Dove,101.9,0.812,289,72.07
+10093,SKU10093,Rice 0093,Staples,Rice,Tata,48.12,2.143,132,39.37
+10094,SKU10094,Milk 0094,Dairy,Milk,Britannia,65.48,3.117,169,53.52
+10095,SKU10095,Garbage Bags 0095,Household,Garbage Bags,Dove,16.36,4.668,277,11.32
+10096,SKU10096,Garbage Bags 0096,Household,Garbage Bags,Parle,30.63,4.905,31,22.13
+10097,SKU10097,Garbage Bags 0097,Household,Garbage Bags,Nestle,47.14,0.395,259,36.87
+10098,SKU10098,Toothpaste 0098,Personal Care,Toothpaste,Parle,31.94,0.733,7,25.61
+10099,SKU10099,Coffee 0099,Beverages,Coffee,Local,78.04,3.964,212,47.22
+10100,SKU10100,Detergent 0100,Household,Detergent,Dove,148.21,1.39,175,102.67
+10101,SKU10101,Orange 0101,Fruits,Orange,Dove,30.32,4.43,172,23.49
+10102,SKU10102,Garbage Bags 0102,Household,Garbage Bags,ITC,35.92,3.334,181,22.7
+10103,SKU10103,Chocolate 0103,Snacks,Chocolate,Dove,61.42,0.604,180,41.07
+10104,SKU10104,Coffee 0104,Beverages,Coffee,ITC,122.19,4.171,149,99.72
+10105,SKU10105,Chips 0105,Snacks,Chips,Tata,29.63,0.923,165,24.18
+10106,SKU10106,Chocolate 0106,Snacks,Chocolate,Tata,61.84,2.146,208,49.14
+10107,SKU10107,Curd 0107,Dairy,Curd,Britannia,135.73,2.783,279,103.91
+10108,SKU10108,Buns 0108,Bakery,Buns,Nestle,23.91,2.529,202,14.89
+10109,SKU10109,Apple 0109,Fruits,Apple,Amul,28.77,3.447,235,18.32
+10110,SKU10110,Bread 0110,Bakery,Bread,Britannia,44.18,3.281,305,30.83
+10111,SKU10111,Water 0111,Beverages,Water,ITC,42.09,4.961,361,29.52
+10112,SKU10112,Toothpaste 0112,Personal Care,Toothpaste,ITC,81.97,4.997,41,56.27
+10113,SKU10113,Toothpaste 0113,Personal Care,Toothpaste,Britannia,61.61,2.606,260,44.48
+10114,SKU10114,Coffee 0114,Beverages,Coffee,ITC,22.48,0.521,83,14.84
+10115,SKU10115,Dal 0115,Staples,Dal,Parle,70.65,3.653,73,53.15
+10116,SKU10116,Chocolate 0116,Snacks,Chocolate,Britannia,40.9,4.884,289,26.18
+10117,SKU10117,Butter 0117,Dairy,Butter,Nestle,103.26,1.626,26,66.01
+10118,SKU10118,Tissue 0118,Household,Tissue,Nestle,39.89,2.333,309,23.31
+10119,SKU10119,Chocolate 0119,Snacks,Chocolate,Parle,39.71,2.153,281,23.86
+10120,SKU10120,Soap 0120,Personal Care,Soap,Nestle,71.56,0.305,363,55.79
+10121,SKU10121,Chocolate 0121,Snacks,Chocolate,Tata,79.95,3.378,244,53.61
+10122,SKU10122,Chocolate 0122,Snacks,Chocolate,Nestle,68.31,1.799,318,41.77
+10123,SKU10123,Butter 0123,Dairy,Butter,ITC,23.5,3.948,45,17.74
+10124,SKU10124,Chocolate 0124,Snacks,Chocolate,ITC,71.45,4.169,325,49.98
+10125,SKU10125,Garbage Bags 0125,Household,Garbage Bags,Britannia,32.55,4.115,60,18.09
+10126,SKU10126,Tomato 0126,Vegetables,Tomato,Tata,61.41,2.112,116,39.02
+10127,SKU10127,Shampoo 0127,Personal Care,Shampoo,Britannia,26.79,1.642,48,16.01
+10128,SKU10128,Curd 0128,Dairy,Curd,Nestle,68.25,3.757,147,49.62
+10129,SKU10129,Potato 0129,Vegetables,Potato,Dove,36.48,4.017,273,22.77
+10130,SKU10130,Water 0130,Beverages,Water,Local,28.75,2.482,99,16.32
+10131,SKU10131,Frozen Snacks 0131,Frozen,Frozen Snacks,Tata,78.02,4.471,300,44.07
+10132,SKU10132,Banana 0132,Fruits,Banana,Local,61.61,0.762,222,43.56
+10133,SKU10133,Orange 0133,Fruits,Orange,Dove,40.17,4.401,230,22.33
+10134,SKU10134,Juice 0134,Beverages,Juice,ITC,112.8,0.526,342,87.89
+10135,SKU10135,Frozen Snacks 0135,Frozen,Frozen Snacks,Dove,43.8,0.81,158,25.93
+10136,SKU10136,Dal 0136,Staples,Dal,Nestle,55.48,2.693,127,39.6
+10137,SKU10137,Curd 0137,Dairy,Curd,ITC,62.46,0.384,363,41.85
+10138,SKU10138,Apple 0138,Fruits,Apple,Parle,40.05,0.311,204,26.82
+10139,SKU10139,Rice 0139,Staples,Rice,Local,69.1,0.053,225,39.34
+10140,SKU10140,Cheese 0140,Dairy,Cheese,Dove,41.82,2.21,109,32.07
+10141,SKU10141,Dal 0141,Staples,Dal,ITC,44.44,3.884,80,35.16
+10142,SKU10142,Orange 0142,Fruits,Orange,Tata,107.91,0.222,63,59.67
+10143,SKU10143,Frozen Peas 0143,Frozen,Frozen Peas,Britannia,32.45,3.279,83,19.41
+10144,SKU10144,Orange 0144,Fruits,Orange,Dove,16.34,4.124,72,12.97
+10145,SKU10145,Water 0145,Beverages,Water,Parle,122.18,0.882,273,85.33
+10146,SKU10146,Toothpaste 0146,Personal Care,Toothpaste,Parle,195.32,0.777,23,115.34
+10147,SKU10147,Buns 0147,Bakery,Buns,Dove,44.58,4.311,230,26.96
+10148,SKU10148,Chocolate 0148,Snacks,Chocolate,Tata,20.73,4.124,346,15.1
+10149,SKU10149,Chips 0149,Snacks,Chips,Amul,46.75,2.718,279,34.86
+10150,SKU10150,Garbage Bags 0150,Household,Garbage Bags,Nestle,47.32,4.105,148,33.68
+10151,SKU10151,Frozen Snacks 0151,Frozen,Frozen Snacks,Britannia,49.65,0.509,23,40.08
+10152,SKU10152,Toothpaste 0152,Personal Care,Toothpaste,Tata,31.29,2.003,304,21.38
+10153,SKU10153,Juice 0153,Beverages,Juice,Amul,72.95,3.702,3,46.04
+10154,SKU10154,Juice 0154,Beverages,Juice,Britannia,70.97,1.324,249,48.18
+10155,SKU10155,Juice 0155,Beverages,Juice,Parle,25.86,3.774,245,16.73
+10156,SKU10156,Rice 0156,Staples,Rice,Tata,77.45,2.546,71,47.29
+10157,SKU10157,Tomato 0157,Vegetables,Tomato,Parle,152.37,3.764,270,85.69
+10158,SKU10158,Cookies 0158,Bakery,Cookies,Dove,59.5,2.35,65,38.38
+10159,SKU10159,Potato 0159,Vegetables,Potato,Local,46.12,1.871,83,34.22
+10160,SKU10160,Milk 0160,Dairy,Milk,Britannia,50.86,1.135,296,28.23
+10161,SKU10161,Bread 0161,Bakery,Bread,Local,74.26,1.081,357,49.65
+10162,SKU10162,Butter 0162,Dairy,Butter,Parle,22.98,3.77,98,16.63
+10163,SKU10163,Tissue 0163,Household,Tissue,Tata,59.28,0.639,336,42.37
+10164,SKU10164,Detergent 0164,Household,Detergent,Amul,44.91,0.476,333,34.12
+10165,SKU10165,Face Wash 0165,Personal Care,Face Wash,Parle,137.54,0.923,281,105.75
+10166,SKU10166,Coffee 0166,Beverages,Coffee,Tata,50.04,0.918,52,37.14
+10167,SKU10167,Detergent 0167,Household,Detergent,Parle,125.71,4.124,110,72.63
+10168,SKU10168,Cookies 0168,Bakery,Cookies,Amul,31.44,2.023,248,21.32
+10169,SKU10169,Frozen Peas 0169,Frozen,Frozen Peas,Parle,73.23,4.952,364,52.21
+10170,SKU10170,Chips 0170,Snacks,Chips,Local,64.05,0.729,297,39.47
+10171,SKU10171,Ice Cream 0171,Frozen,Ice Cream,Tata,35.36,3.285,154,19.85
+10172,SKU10172,Cookies 0172,Bakery,Cookies,Britannia,59.66,2.271,87,36.41
+10173,SKU10173,Soft Drink 0173,Beverages,Soft Drink,Local,100.11,1.995,350,67.36
+10174,SKU10174,Face Wash 0174,Personal Care,Face Wash,Local,46.44,4.382,102,30.73
+10175,SKU10175,Soft Drink 0175,Beverages,Soft Drink,Britannia,23.43,4.879,126,14.0
+10176,SKU10176,Water 0176,Beverages,Water,Dove,54.12,4.371,352,41.81
+10177,SKU10177,Cookies 0177,Bakery,Cookies,ITC,34.77,1.002,205,27.81
+10178,SKU10178,Capsicum 0178,Vegetables,Capsicum,Parle,46.01,1.143,98,27.81
+10179,SKU10179,Apple 0179,Fruits,Apple,ITC,52.42,3.298,3,41.99
+10180,SKU10180,Tomato 0180,Vegetables,Tomato,Dove,23.27,1.481,158,12.91
+10181,SKU10181,Face Wash 0181,Personal Care,Face Wash,Local,24.34,3.687,359,19.47
+10182,SKU10182,Soap 0182,Personal Care,Soap,Dove,69.48,2.854,159,56.07
+10183,SKU10183,Shampoo 0183,Personal Care,Shampoo,Local,42.04,2.777,255,23.26
+10184,SKU10184,Onion 0184,Vegetables,Onion,Local,15.14,4.151,93,11.45
+10185,SKU10185,Fries 0185,Frozen,Fries,Amul,80.84,3.567,283,65.64
+10186,SKU10186,Butter 0186,Dairy,Butter,Nestle,62.56,0.182,283,49.71
+10187,SKU10187,Potato 0187,Vegetables,Potato,Tata,38.21,0.295,222,31.03
+10188,SKU10188,Bread 0188,Bakery,Bread,Parle,28.26,3.028,282,19.74
+10189,SKU10189,Potato 0189,Vegetables,Potato,Amul,82.92,2.457,212,47.36
+10190,SKU10190,Fries 0190,Frozen,Fries,Amul,65.02,1.338,139,50.68
+10191,SKU10191,Onion 0191,Vegetables,Onion,Parle,179.7,2.122,269,128.62
+10192,SKU10192,Frozen Peas 0192,Frozen,Frozen Peas,Parle,67.36,3.802,305,48.23
+10193,SKU10193,Soft Drink 0193,Beverages,Soft Drink,Britannia,66.28,4.142,307,43.92
+10194,SKU10194,Face Wash 0194,Personal Care,Face Wash,Britannia,50.23,2.828,79,35.38
+10195,SKU10195,Coffee 0195,Beverages,Coffee,Britannia,82.14,1.958,247,48.58
+10196,SKU10196,Mango 0196,Fruits,Mango,Parle,74.63,1.39,3,55.95
+10197,SKU10197,Tissue 0197,Household,Tissue,Amul,102.09,2.633,209,58.22
+10198,SKU10198,Fries 0198,Frozen,Fries,Parle,42.07,1.608,209,31.43
+10199,SKU10199,Mango 0199,Fruits,Mango,ITC,43.92,2.842,133,34.22
+10200,SKU10200,Garbage Bags 0200,Household,Garbage Bags,ITC,42.97,3.399,362,29.12
+10201,SKU10201,Mango 0201,Fruits,Mango,Tata,81.08,0.377,322,55.76
+10202,SKU10202,Detergent 0202,Household,Detergent,Parle,115.49,0.055,16,73.26
+10203,SKU10203,Garbage Bags 0203,Household,Garbage Bags,Tata,43.41,1.101,77,35.24
+10204,SKU10204,Water 0204,Beverages,Water,Dove,44.15,4.478,77,33.02
+10205,SKU10205,Cleaner 0205,Household,Cleaner,Local,63.88,3.249,327,41.5
+10206,SKU10206,Mango 0206,Fruits,Mango,Dove,48.28,0.901,190,28.83
+10207,SKU10207,Butter 0207,Dairy,Butter,Parle,87.88,4.457,266,53.54
+10208,SKU10208,Butter 0208,Dairy,Butter,ITC,17.71,2.376,296,11.96
+10209,SKU10209,Water 0209,Beverages,Water,Britannia,36.11,2.407,280,29.05
+10210,SKU10210,Frozen Peas 0210,Frozen,Frozen Peas,Parle,36.92,4.681,34,27.62
+10211,SKU10211,Buns 0211,Bakery,Buns,Britannia,17.11,0.344,52,10.4
+10212,SKU10212,Coffee 0212,Beverages,Coffee,Local,33.72,1.115,145,26.37
+10213,SKU10213,Detergent 0213,Household,Detergent,Dove,34.55,2.95,124,22.53
+10214,SKU10214,Banana 0214,Fruits,Banana,Amul,49.38,1.018,273,38.51
+10215,SKU10215,Detergent 0215,Household,Detergent,Dove,95.25,3.414,58,58.6
+10216,SKU10216,Tomato 0216,Vegetables,Tomato,Amul,48.3,1.11,136,34.63
+10217,SKU10217,Rice 0217,Staples,Rice,Tata,32.61,0.541,87,26.09
+10218,SKU10218,Biscuits 0218,Snacks,Biscuits,Amul,53.07,1.075,70,32.88
+10219,SKU10219,Namkeen 0219,Snacks,Namkeen,ITC,92.26,2.143,64,68.0
+10220,SKU10220,Cakes 0220,Bakery,Cakes,Tata,33.52,0.922,72,27.37
+10221,SKU10221,Coffee 0221,Beverages,Coffee,Tata,34.63,0.717,206,20.45
+10222,SKU10222,Dal 0222,Staples,Dal,ITC,72.19,4.308,150,41.43
+10223,SKU10223,Milk 0223,Dairy,Milk,Local,48.87,1.636,160,35.77
+10224,SKU10224,Tissue 0224,Household,Tissue,Dove,75.47,1.836,176,48.43
+10225,SKU10225,Soft Drink 0225,Beverages,Soft Drink,Britannia,54.23,0.324,271,30.87
+10226,SKU10226,Detergent 0226,Household,Detergent,Tata,77.54,1.819,314,52.6
+10227,SKU10227,Toothpaste 0227,Personal Care,Toothpaste,Tata,32.54,1.361,193,24.52
+10228,SKU10228,Water 0228,Beverages,Water,Nestle,54.27,3.072,235,34.03
+10229,SKU10229,Tomato 0229,Vegetables,Tomato,Tata,49.14,1.067,270,31.47
+10230,SKU10230,Soap 0230,Personal Care,Soap,Local,29.73,4.447,252,23.14
+10231,SKU10231,Buns 0231,Bakery,Buns,Dove,24.98,4.652,50,17.25
+10232,SKU10232,Biscuits 0232,Snacks,Biscuits,Dove,76.93,0.544,358,59.82
+10233,SKU10233,Butter 0233,Dairy,Butter,Tata,45.81,0.582,61,30.72
+10234,SKU10234,Soap 0234,Personal Care,Soap,Nestle,32.75,0.621,151,26.44
+10235,SKU10235,Soap 0235,Personal Care,Soap,Dove,52.03,3.117,238,37.76
+10236,SKU10236,Butter 0236,Dairy,Butter,Nestle,95.97,0.654,148,55.79
+10237,SKU10237,Tissue 0237,Household,Tissue,Parle,17.46,4.269,90,13.78
+10238,SKU10238,Juice 0238,Beverages,Juice,Nestle,25.83,3.784,337,17.62
+10239,SKU10239,Garbage Bags 0239,Household,Garbage Bags,Nestle,34.42,4.108,27,20.25
+10240,SKU10240,Curd 0240,Dairy,Curd,Britannia,113.36,2.654,91,67.02
+10241,SKU10241,Cakes 0241,Bakery,Cakes,Local,62.88,4.984,362,46.26
+10242,SKU10242,Soft Drink 0242,Beverages,Soft Drink,Britannia,80.13,0.269,266,45.1
+10243,SKU10243,Cakes 0243,Bakery,Cakes,Amul,30.87,2.036,33,19.37
+10244,SKU10244,Potato 0244,Vegetables,Potato,Local,31.19,1.653,275,18.33
+10245,SKU10245,Toothpaste 0245,Personal Care,Toothpaste,Parle,68.3,4.746,353,45.7
+10246,SKU10246,Buns 0246,Bakery,Buns,ITC,56.21,2.905,37,37.2
+10247,SKU10247,Face Wash 0247,Personal Care,Face Wash,Tata,71.83,4.041,152,49.63
+10248,SKU10248,Bread 0248,Bakery,Bread,ITC,49.71,0.893,171,31.09
+10249,SKU10249,Cakes 0249,Bakery,Cakes,Britannia,62.74,4.894,49,35.05
+10250,SKU10250,Biscuits 0250,Snacks,Biscuits,Tata,59.09,2.518,74,42.3
+10251,SKU10251,Garbage Bags 0251,Household,Garbage Bags,Britannia,80.55,2.494,65,52.43
+10252,SKU10252,Cookies 0252,Bakery,Cookies,Parle,81.74,4.856,69,59.33
+10253,SKU10253,Orange 0253,Fruits,Orange,Local,24.29,1.935,148,14.07
+10254,SKU10254,Ice Cream 0254,Frozen,Ice Cream,Local,17.75,2.018,170,9.83
+10255,SKU10255,Frozen Snacks 0255,Frozen,Frozen Snacks,Nestle,90.1,2.945,88,55.6
+10256,SKU10256,Biscuits 0256,Snacks,Biscuits,Dove,98.88,0.684,107,66.57
+10257,SKU10257,Water 0257,Beverages,Water,Parle,32.78,1.639,71,21.52
+10258,SKU10258,Potato 0258,Vegetables,Potato,ITC,21.54,1.006,290,16.56
+10259,SKU10259,Shampoo 0259,Personal Care,Shampoo,Britannia,57.37,0.561,78,37.41
+10260,SKU10260,Biscuits 0260,Snacks,Biscuits,ITC,86.96,4.337,331,60.28
+10261,SKU10261,Orange 0261,Fruits,Orange,Tata,134.13,2.967,197,95.27
+10262,SKU10262,Milk 0262,Dairy,Milk,Local,70.68,1.825,293,39.29
+10263,SKU10263,Cookies 0263,Bakery,Cookies,Amul,45.34,2.073,233,31.24
+10264,SKU10264,Fries 0264,Frozen,Fries,Tata,34.93,2.186,98,22.46
+10265,SKU10265,Juice 0265,Beverages,Juice,Dove,54.91,3.184,220,36.45
+10266,SKU10266,Soft Drink 0266,Beverages,Soft Drink,Local,47.01,4.638,101,27.13
+10267,SKU10267,Coffee 0267,Beverages,Coffee,ITC,32.87,4.667,45,25.03
+10268,SKU10268,Garbage Bags 0268,Household,Garbage Bags,Amul,152.08,1.988,94,122.34
+10269,SKU10269,Cheese 0269,Dairy,Cheese,Nestle,133.3,1.68,102,74.12
+10270,SKU10270,Butter 0270,Dairy,Butter,Dove,96.35,2.283,51,68.64
+10271,SKU10271,Orange 0271,Fruits,Orange,Local,34.45,2.861,10,26.05
+10272,SKU10272,Soft Drink 0272,Beverages,Soft Drink,Tata,83.72,2.336,344,52.48
+10273,SKU10273,Toothpaste 0273,Personal Care,Toothpaste,Amul,75.17,3.311,188,57.33
+10274,SKU10274,Soft Drink 0274,Beverages,Soft Drink,Amul,68.12,2.794,147,49.1
+10275,SKU10275,Water 0275,Beverages,Water,ITC,101.99,1.638,339,81.68
+10276,SKU10276,Ice Cream 0276,Frozen,Ice Cream,Parle,75.01,1.761,83,61.12
+10277,SKU10277,Cookies 0277,Bakery,Cookies,Amul,79.04,1.924,148,44.38
+10278,SKU10278,Chocolate 0278,Snacks,Chocolate,Tata,75.07,0.518,309,50.31
+10279,SKU10279,Namkeen 0279,Snacks,Namkeen,Parle,64.74,0.872,231,45.17
+10280,SKU10280,Coffee 0280,Beverages,Coffee,Amul,22.38,3.629,146,13.2
+10281,SKU10281,Rice 0281,Staples,Rice,Amul,56.93,1.976,94,36.48
+10282,SKU10282,Mango 0282,Fruits,Mango,ITC,41.34,1.112,14,33.76
+10283,SKU10283,Fries 0283,Frozen,Fries,Tata,28.79,2.835,32,15.96
+10284,SKU10284,Potato 0284,Vegetables,Potato,Dove,126.58,3.79,60,85.08
+10285,SKU10285,Namkeen 0285,Snacks,Namkeen,ITC,129.61,1.324,287,100.77
+10286,SKU10286,Chips 0286,Snacks,Chips,Nestle,107.73,4.143,234,68.67
+10287,SKU10287,Flour 0287,Staples,Flour,Local,62.03,4.641,159,42.15
+10288,SKU10288,Water 0288,Beverages,Water,ITC,107.27,3.007,286,87.33
+10289,SKU10289,Orange 0289,Fruits,Orange,Nestle,54.93,3.361,60,37.25
+10290,SKU10290,Milk 0290,Dairy,Milk,ITC,60.42,0.31,78,35.37
+10291,SKU10291,Onion 0291,Vegetables,Onion,Amul,31.6,4.73,144,17.82
+10292,SKU10292,Flour 0292,Staples,Flour,Nestle,66.59,1.993,335,53.62
+10293,SKU10293,Milk 0293,Dairy,Milk,Parle,56.27,4.623,224,34.99
+10294,SKU10294,Sugar 0294,Staples,Sugar,Local,28.46,2.916,310,19.53
+10295,SKU10295,Namkeen 0295,Snacks,Namkeen,Tata,53.22,0.073,92,30.57
+10296,SKU10296,Buns 0296,Bakery,Buns,Dove,52.46,0.241,309,34.85
+10297,SKU10297,Tomato 0297,Vegetables,Tomato,Parle,134.13,3.418,28,107.46
+10298,SKU10298,Chocolate 0298,Snacks,Chocolate,Amul,85.38,2.835,84,58.54
+10299,SKU10299,Tomato 0299,Vegetables,Tomato,ITC,54.91,0.181,191,44.6
+10300,SKU10300,Bread 0300,Bakery,Bread,Local,61.83,3.73,20,38.33
+10301,SKU10301,Toothpaste 0301,Personal Care,Toothpaste,Amul,55.82,4.268,313,38.31
+10302,SKU10302,Toothpaste 0302,Personal Care,Toothpaste,Local,49.33,2.507,316,38.58
+10303,SKU10303,Bread 0303,Bakery,Bread,Tata,31.78,2.355,198,21.33
+10304,SKU10304,Orange 0304,Fruits,Orange,Nestle,50.63,0.077,113,31.67
+10305,SKU10305,Apple 0305,Fruits,Apple,Dove,37.6,3.944,37,29.36
+10306,SKU10306,Toothpaste 0306,Personal Care,Toothpaste,Dove,29.22,1.687,226,19.15
+10307,SKU10307,Cleaner 0307,Household,Cleaner,Amul,70.5,4.4,197,48.88
+10308,SKU10308,Cleaner 0308,Household,Cleaner,Amul,66.4,1.897,277,54.03
+10309,SKU10309,Ice Cream 0309,Frozen,Ice Cream,Tata,22.35,2.847,220,13.42
+10310,SKU10310,Tissue 0310,Household,Tissue,Local,51.35,1.388,48,32.42
+10311,SKU10311,Tomato 0311,Vegetables,Tomato,Amul,89.82,0.845,46,50.15
+10312,SKU10312,Bread 0312,Bakery,Bread,Tata,92.72,3.886,285,60.81
+10313,SKU10313,Shampoo 0313,Personal Care,Shampoo,Britannia,91.19,2.508,59,55.08
+10314,SKU10314,Frozen Peas 0314,Frozen,Frozen Peas,Tata,55.67,2.706,342,40.84
+10315,SKU10315,Frozen Snacks 0315,Frozen,Frozen Snacks,Parle,35.78,4.829,40,21.43
+10316,SKU10316,Apple 0316,Fruits,Apple,Amul,31.76,4.82,266,23.25
+10317,SKU10317,Apple 0317,Fruits,Apple,Tata,64.86,4.285,356,40.29
+10318,SKU10318,Curd 0318,Dairy,Curd,Local,66.0,0.979,162,42.63
+10319,SKU10319,Buns 0319,Bakery,Buns,Dove,103.92,2.992,22,66.94
+10320,SKU10320,Chocolate 0320,Snacks,Chocolate,Amul,94.63,4.397,320,70.36
+10321,SKU10321,Namkeen 0321,Snacks,Namkeen,Britannia,51.11,1.904,69,34.55
+10322,SKU10322,Onion 0322,Vegetables,Onion,Britannia,29.31,0.55,193,18.98
+10323,SKU10323,Tomato 0323,Vegetables,Tomato,ITC,46.55,4.064,359,36.32
+10324,SKU10324,Flour 0324,Staples,Flour,Britannia,60.86,2.435,272,42.87
+10325,SKU10325,Coffee 0325,Beverages,Coffee,Dove,49.35,2.844,18,29.99
+10326,SKU10326,Rice 0326,Staples,Rice,Dove,40.9,4.912,299,32.43
+10327,SKU10327,Fries 0327,Frozen,Fries,Dove,61.96,3.056,60,39.81
+10328,SKU10328,Tomato 0328,Vegetables,Tomato,Britannia,42.44,2.154,274,23.79
+10329,SKU10329,Banana 0329,Fruits,Banana,Amul,39.88,1.881,227,27.26
+10330,SKU10330,Fries 0330,Frozen,Fries,Local,63.8,2.117,106,37.22
+10331,SKU10331,Soap 0331,Personal Care,Soap,Nestle,44.66,0.636,155,27.44
+10332,SKU10332,Orange 0332,Fruits,Orange,Tata,61.69,3.984,44,46.37
+10333,SKU10333,Shampoo 0333,Personal Care,Shampoo,Local,62.59,4.197,360,36.63
+10334,SKU10334,Chips 0334,Snacks,Chips,Amul,30.89,1.458,88,23.72
+10335,SKU10335,Frozen Peas 0335,Frozen,Frozen Peas,Amul,42.92,1.554,114,34.46
+10336,SKU10336,Mango 0336,Fruits,Mango,Amul,112.04,4.378,184,79.97
+10337,SKU10337,Frozen Snacks 0337,Frozen,Frozen Snacks,Britannia,30.54,0.169,246,22.65
+10338,SKU10338,Ice Cream 0338,Frozen,Ice Cream,Amul,18.95,2.626,185,14.07
+10339,SKU10339,Cakes 0339,Bakery,Cakes,Dove,21.52,2.345,185,17.6
+10340,SKU10340,Cookies 0340,Bakery,Cookies,Parle,55.4,3.466,213,35.58
+10341,SKU10341,Namkeen 0341,Snacks,Namkeen,Local,55.45,0.859,313,32.94
+10342,SKU10342,Curd 0342,Dairy,Curd,Dove,51.48,3.358,145,35.53
+10343,SKU10343,Orange 0343,Fruits,Orange,Local,100.19,1.915,304,69.53
+10344,SKU10344,Water 0344,Beverages,Water,Britannia,15.0,3.113,287,8.97
+10345,SKU10345,Fries 0345,Frozen,Fries,Nestle,66.55,0.248,350,47.62
+10346,SKU10346,Frozen Snacks 0346,Frozen,Frozen Snacks,Dove,119.19,2.336,333,66.01
+10347,SKU10347,Cookies 0347,Bakery,Cookies,Britannia,31.07,2.635,291,24.87
+10348,SKU10348,Sugar 0348,Staples,Sugar,Amul,45.15,1.111,91,28.06
+10349,SKU10349,Butter 0349,Dairy,Butter,Tata,37.47,0.741,283,21.01
+10350,SKU10350,Cleaner 0350,Household,Cleaner,Dove,34.91,0.983,269,20.22
+10351,SKU10351,Flour 0351,Staples,Flour,Local,46.38,1.753,107,28.52
+10352,SKU10352,Sugar 0352,Staples,Sugar,Local,111.47,0.529,248,69.55
+10353,SKU10353,Banana 0353,Fruits,Banana,Amul,136.82,4.739,93,76.46
+10354,SKU10354,Sugar 0354,Staples,Sugar,Dove,46.16,2.055,191,28.87
+10355,SKU10355,Bread 0355,Bakery,Bread,Dove,141.53,4.054,291,85.21
+10356,SKU10356,Chips 0356,Snacks,Chips,Tata,55.58,4.873,70,36.25
+10357,SKU10357,Coffee 0357,Beverages,Coffee,Dove,131.22,0.45,124,85.82
+10358,SKU10358,Tomato 0358,Vegetables,Tomato,Dove,52.11,3.276,290,33.43
+10359,SKU10359,Milk 0359,Dairy,Milk,ITC,58.3,4.363,166,37.23
+10360,SKU10360,Tissue 0360,Household,Tissue,Amul,65.55,3.189,350,37.64
+10361,SKU10361,Potato 0361,Vegetables,Potato,ITC,267.58,2.174,4,148.99
+10362,SKU10362,Toothpaste 0362,Personal Care,Toothpaste,Britannia,83.57,2.184,264,50.52
+10363,SKU10363,Juice 0363,Beverages,Juice,Amul,38.34,0.228,297,28.92
+10364,SKU10364,Onion 0364,Vegetables,Onion,Amul,88.63,2.696,335,72.46
+10365,SKU10365,Sugar 0365,Staples,Sugar,Tata,45.56,4.968,58,36.48
+10366,SKU10366,Butter 0366,Dairy,Butter,Parle,42.74,4.796,359,29.33
+10367,SKU10367,Cleaner 0367,Household,Cleaner,Parle,86.0,0.25,144,59.65
+10368,SKU10368,Cleaner 0368,Household,Cleaner,Tata,55.45,3.544,129,35.21
+10369,SKU10369,Capsicum 0369,Vegetables,Capsicum,Parle,62.76,1.544,131,47.63
+10370,SKU10370,Mango 0370,Fruits,Mango,Tata,54.98,4.52,233,41.59
+10371,SKU10371,Milk 0371,Dairy,Milk,Amul,64.6,0.273,241,50.26
+10372,SKU10372,Ice Cream 0372,Frozen,Ice Cream,Dove,67.52,4.683,174,53.46
+10373,SKU10373,Ice Cream 0373,Frozen,Ice Cream,ITC,20.73,4.196,27,13.83
+10374,SKU10374,Apple 0374,Fruits,Apple,Britannia,76.19,0.632,360,57.68
+10375,SKU10375,Curd 0375,Dairy,Curd,Dove,33.41,0.346,82,25.65
+10376,SKU10376,Bread 0376,Bakery,Bread,Tata,26.55,4.182,36,16.81
+10377,SKU10377,Cheese 0377,Dairy,Cheese,Amul,53.03,0.821,218,42.47
+10378,SKU10378,Flour 0378,Staples,Flour,Britannia,56.94,2.698,151,32.77
+10379,SKU10379,Sugar 0379,Staples,Sugar,Amul,38.6,4.583,225,31.59
+10380,SKU10380,Cookies 0380,Bakery,Cookies,Nestle,82.72,2.859,319,62.7
+10381,SKU10381,Cleaner 0381,Household,Cleaner,Amul,27.91,2.016,37,16.05
+10382,SKU10382,Cakes 0382,Bakery,Cakes,Tata,44.55,2.253,105,32.4
+10383,SKU10383,Onion 0383,Vegetables,Onion,Parle,40.75,0.362,189,22.79
+10384,SKU10384,Biscuits 0384,Snacks,Biscuits,Local,53.34,4.845,287,40.43
+10385,SKU10385,Detergent 0385,Household,Detergent,Tata,62.77,1.588,220,48.07
+10386,SKU10386,Dal 0386,Staples,Dal,Parle,32.99,0.987,140,23.51
+10387,SKU10387,Curd 0387,Dairy,Curd,Parle,78.42,1.466,223,61.27
+10388,SKU10388,Cakes 0388,Bakery,Cakes,Amul,56.35,4.824,357,32.48
+10389,SKU10389,Orange 0389,Fruits,Orange,Amul,21.2,0.517,176,13.24
+10390,SKU10390,Tomato 0390,Vegetables,Tomato,Parle,20.51,4.343,322,13.57
+10391,SKU10391,Frozen Snacks 0391,Frozen,Frozen Snacks,Amul,54.26,3.554,285,30.47
+10392,SKU10392,Garbage Bags 0392,Household,Garbage Bags,Amul,48.89,4.159,111,32.81
+10393,SKU10393,Tomato 0393,Vegetables,Tomato,Britannia,51.85,4.881,92,32.23
+10394,SKU10394,Fries 0394,Frozen,Fries,Local,53.84,4.219,281,35.32
+10395,SKU10395,Soft Drink 0395,Beverages,Soft Drink,ITC,61.12,4.72,77,40.63
+10396,SKU10396,Chips 0396,Snacks,Chips,Tata,87.69,0.678,124,69.05
+10397,SKU10397,Water 0397,Beverages,Water,ITC,31.33,3.989,87,19.52
+10398,SKU10398,Buns 0398,Bakery,Buns,Britannia,30.39,2.751,222,24.05
+10399,SKU10399,Ice Cream 0399,Frozen,Ice Cream,Nestle,31.61,2.74,108,21.02
+10400,SKU10400,Milk 0400,Dairy,Milk,Amul,63.08,4.5,241,40.28
+10401,SKU10401,Cookies 0401,Bakery,Cookies,Dove,101.75,4.86,341,69.77
+10402,SKU10402,Apple 0402,Fruits,Apple,Britannia,44.01,3.539,303,29.17
+10403,SKU10403,Orange 0403,Fruits,Orange,ITC,15.63,2.441,346,9.68
+10404,SKU10404,Buns 0404,Bakery,Buns,Local,23.29,2.309,10,15.97
+10405,SKU10405,Milk 0405,Dairy,Milk,Parle,36.0,1.962,167,21.28
+10406,SKU10406,Face Wash 0406,Personal Care,Face Wash,ITC,41.31,1.84,81,26.65
+10407,SKU10407,Fries 0407,Frozen,Fries,Parle,44.51,1.988,335,31.28
+10408,SKU10408,Bread 0408,Bakery,Bread,Dove,55.66,0.494,260,36.83
+10409,SKU10409,Orange 0409,Fruits,Orange,Nestle,46.72,0.433,118,36.09
+10410,SKU10410,Chips 0410,Snacks,Chips,Tata,92.27,3.91,206,57.14
+10411,SKU10411,Ice Cream 0411,Frozen,Ice Cream,Dove,38.94,2.258,221,31.61
+10412,SKU10412,Face Wash 0412,Personal Care,Face Wash,Parle,35.48,4.657,181,27.03
+10413,SKU10413,Tissue 0413,Household,Tissue,ITC,69.37,3.08,174,56.28
+10414,SKU10414,Biscuits 0414,Snacks,Biscuits,Britannia,25.33,0.224,22,19.66
+10415,SKU10415,Juice 0415,Beverages,Juice,Britannia,66.34,0.83,166,39.03
+10416,SKU10416,Cakes 0416,Bakery,Cakes,Local,57.47,1.069,128,39.78
+10417,SKU10417,Dal 0417,Staples,Dal,Parle,50.72,4.88,299,30.22
+10418,SKU10418,Rice 0418,Staples,Rice,Nestle,120.8,1.133,316,93.13
+10419,SKU10419,Curd 0419,Dairy,Curd,ITC,40.0,2.603,274,28.31
+10420,SKU10420,Detergent 0420,Household,Detergent,Parle,152.96,4.684,13,95.01
+10421,SKU10421,Butter 0421,Dairy,Butter,Parle,48.78,4.887,307,39.07
+10422,SKU10422,Cleaner 0422,Household,Cleaner,Tata,28.83,1.22,145,16.75
+10423,SKU10423,Flour 0423,Staples,Flour,Nestle,56.54,0.293,153,39.7
+10424,SKU10424,Buns 0424,Bakery,Buns,Tata,31.88,0.81,345,23.74
+10425,SKU10425,Water 0425,Beverages,Water,ITC,37.49,0.363,316,21.22
+10426,SKU10426,Bread 0426,Bakery,Bread,Local,66.59,1.016,20,47.37
+10427,SKU10427,Chocolate 0427,Snacks,Chocolate,Britannia,72.08,2.864,132,55.52
+10428,SKU10428,Ice Cream 0428,Frozen,Ice Cream,Britannia,40.0,4.567,274,22.73
+10429,SKU10429,Butter 0429,Dairy,Butter,ITC,89.45,2.709,197,61.57
+10430,SKU10430,Capsicum 0430,Vegetables,Capsicum,Parle,97.39,3.149,95,60.36
+10431,SKU10431,Fries 0431,Frozen,Fries,Tata,111.96,1.049,192,81.62
+10432,SKU10432,Tomato 0432,Vegetables,Tomato,ITC,71.14,4.013,316,41.41
+10433,SKU10433,Buns 0433,Bakery,Buns,Local,107.95,3.108,83,86.68
+10434,SKU10434,Soft Drink 0434,Beverages,Soft Drink,ITC,21.32,4.327,272,16.88
+10435,SKU10435,Chips 0435,Snacks,Chips,Britannia,46.57,4.747,268,27.95
+10436,SKU10436,Toothpaste 0436,Personal Care,Toothpaste,Amul,35.39,1.772,323,22.55
+10437,SKU10437,Tomato 0437,Vegetables,Tomato,Local,57.95,0.498,110,41.07
+10438,SKU10438,Fries 0438,Frozen,Fries,Britannia,41.03,1.168,80,30.52
+10439,SKU10439,Chips 0439,Snacks,Chips,Local,50.25,2.217,200,33.64
+10440,SKU10440,Orange 0440,Fruits,Orange,Nestle,139.92,4.731,194,82.86
+10441,SKU10441,Fries 0441,Frozen,Fries,Amul,50.16,1.923,150,29.0
+10442,SKU10442,Frozen Peas 0442,Frozen,Frozen Peas,Nestle,67.15,3.865,284,55.06
+10443,SKU10443,Soft Drink 0443,Beverages,Soft Drink,Parle,48.61,2.725,292,32.71
+10444,SKU10444,Milk 0444,Dairy,Milk,ITC,56.7,0.955,91,44.54
+10445,SKU10445,Biscuits 0445,Snacks,Biscuits,Dove,54.76,1.638,290,37.25
+10446,SKU10446,Chocolate 0446,Snacks,Chocolate,Parle,68.32,3.283,85,54.59
+10447,SKU10447,Buns 0447,Bakery,Buns,ITC,97.77,3.381,149,56.09
+10448,SKU10448,Soap 0448,Personal Care,Soap,Tata,124.42,2.202,11,72.26
+10449,SKU10449,Flour 0449,Staples,Flour,Local,63.74,1.182,125,51.06
+10450,SKU10450,Bread 0450,Bakery,Bread,ITC,73.32,3.623,349,59.08
+10451,SKU10451,Detergent 0451,Household,Detergent,Britannia,30.71,0.886,162,19.5
+10452,SKU10452,Buns 0452,Bakery,Buns,ITC,52.25,4.687,259,33.75
+10453,SKU10453,Cleaner 0453,Household,Cleaner,Dove,87.37,0.98,41,58.73
+10454,SKU10454,Juice 0454,Beverages,Juice,Britannia,84.18,0.581,232,55.76
+10455,SKU10455,Milk 0455,Dairy,Milk,Local,60.69,2.513,136,36.49
+10456,SKU10456,Fries 0456,Frozen,Fries,Parle,85.05,2.622,272,67.41
+10457,SKU10457,Cookies 0457,Bakery,Cookies,Parle,69.78,2.566,338,43.15
+10458,SKU10458,Biscuits 0458,Snacks,Biscuits,Nestle,99.5,2.212,194,73.67
+10459,SKU10459,Cakes 0459,Bakery,Cakes,Local,63.1,4.974,39,35.85
+10460,SKU10460,Ice Cream 0460,Frozen,Ice Cream,Amul,45.7,2.457,174,25.61
+10461,SKU10461,Cleaner 0461,Household,Cleaner,Nestle,64.58,2.416,46,46.92
+10462,SKU10462,Rice 0462,Staples,Rice,ITC,15.0,2.138,165,9.62
+10463,SKU10463,Water 0463,Beverages,Water,ITC,66.12,0.381,24,48.07
+10464,SKU10464,Coffee 0464,Beverages,Coffee,ITC,15.0,2.985,234,8.63
+10465,SKU10465,Soap 0465,Personal Care,Soap,Britannia,23.06,1.178,114,18.6
+10466,SKU10466,Garbage Bags 0466,Household,Garbage Bags,Britannia,68.43,3.206,75,51.47
+10467,SKU10467,Flour 0467,Staples,Flour,Amul,69.32,0.302,8,54.53
+10468,SKU10468,Milk 0468,Dairy,Milk,Parle,30.53,4.908,324,17.92
+10469,SKU10469,Toothpaste 0469,Personal Care,Toothpaste,Nestle,38.24,2.372,305,24.34
+10470,SKU10470,Bread 0470,Bakery,Bread,Parle,108.34,4.489,296,70.36
+10471,SKU10471,Orange 0471,Fruits,Orange,Parle,42.86,2.404,23,29.79
+10472,SKU10472,Flour 0472,Staples,Flour,Tata,167.58,0.349,128,105.6
+10473,SKU10473,Mango 0473,Fruits,Mango,Parle,54.55,4.12,354,30.9
+10474,SKU10474,Garbage Bags 0474,Household,Garbage Bags,Tata,66.95,3.259,212,43.49
+10475,SKU10475,Coffee 0475,Beverages,Coffee,Parle,122.54,3.92,48,75.82
+10476,SKU10476,Apple 0476,Fruits,Apple,Tata,58.29,2.169,53,38.13
+10477,SKU10477,Potato 0477,Vegetables,Potato,Parle,33.08,3.208,97,19.95
+10478,SKU10478,Namkeen 0478,Snacks,Namkeen,Nestle,51.68,4.288,354,32.08
+10479,SKU10479,Tissue 0479,Household,Tissue,Britannia,53.63,3.174,63,38.57
+10480,SKU10480,Shampoo 0480,Personal Care,Shampoo,Dove,27.59,1.771,329,18.07
+10481,SKU10481,Ice Cream 0481,Frozen,Ice Cream,Nestle,48.04,3.33,248,30.9
+10482,SKU10482,Dal 0482,Staples,Dal,Parle,37.67,3.376,336,26.15
+10483,SKU10483,Tissue 0483,Household,Tissue,Britannia,86.68,4.805,301,65.74
+10484,SKU10484,Shampoo 0484,Personal Care,Shampoo,ITC,55.55,1.886,122,36.23
+10485,SKU10485,Orange 0485,Fruits,Orange,Parle,47.4,2.154,302,33.59
+10486,SKU10486,Juice 0486,Beverages,Juice,Tata,51.78,4.07,63,41.99
+10487,SKU10487,Bread 0487,Bakery,Bread,Parle,61.04,2.554,107,42.17
+10488,SKU10488,Onion 0488,Vegetables,Onion,Nestle,74.32,3.696,78,59.13
+10489,SKU10489,Ice Cream 0489,Frozen,Ice Cream,Local,33.12,2.326,50,25.31
+10490,SKU10490,Water 0490,Beverages,Water,Parle,32.43,1.117,34,18.35
+10491,SKU10491,Bread 0491,Bakery,Bread,Dove,94.85,3.739,70,63.16
+10492,SKU10492,Toothpaste 0492,Personal Care,Toothpaste,Tata,44.43,0.699,45,32.81
+10493,SKU10493,Fries 0493,Frozen,Fries,Parle,26.89,1.033,140,21.95
+10494,SKU10494,Dal 0494,Staples,Dal,Local,68.16,3.153,27,45.92
+10495,SKU10495,Mango 0495,Fruits,Mango,Britannia,68.83,3.749,24,39.58
+10496,SKU10496,Coffee 0496,Beverages,Coffee,Local,25.4,4.479,361,17.82
+10497,SKU10497,Namkeen 0497,Snacks,Namkeen,Dove,61.24,1.399,33,35.77
+10498,SKU10498,Apple 0498,Fruits,Apple,Parle,78.87,0.598,28,59.38
+10499,SKU10499,Mango 0499,Fruits,Mango,Tata,65.84,4.782,12,45.24
+10500,SKU10500,Apple 0500,Fruits,Apple,Parle,74.89,0.814,50,55.82
